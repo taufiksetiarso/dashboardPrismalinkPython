@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+flaskr/__pycache__/
+.vscode
+node_modules/
+static/
+template/
